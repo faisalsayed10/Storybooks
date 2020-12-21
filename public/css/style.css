@@ -16,3 +16,15 @@ p {
   float: left;
   margin-right: 10px;
 }
+
+.img-small {
+  width: 180px;
+}
+
+.equal {
+  min-height: 300px;
+}
+
+.min-h {
+  min-height: 235px;
+}
